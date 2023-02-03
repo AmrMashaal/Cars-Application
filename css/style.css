@@ -330,7 +330,6 @@ header .container nav a:hover::before{
     color: white;
     font-family: 'Bebas Neue';
     letter-spacing: 1.4px;
-    box-shadow: 0 7px 16px 0 #00000017;
     text-align: center;
     transition: var(--transition);
     -webkit-transition: var(--transition);
@@ -346,7 +345,7 @@ header .container nav a:hover::before{
     -moz-transform: translateY(-10px);
     -ms-transform: translateY(-10px);
     -o-transform: translateY(-10px);
-    box-shadow: 0 7px 16px 0 #00000052;
+    box-shadow: 0 8px 0 0 #00000029;
 }
 
 .services .box .info h2{
